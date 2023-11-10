@@ -12,6 +12,9 @@
     
     
   }
+  .header h1{
+    color:#f7f0f0
+  }
   
   body{
               margin: 0;
@@ -39,7 +42,9 @@
     flex: 1;
     text-align:right;
     /*position: fixed;*/
+
   }
+ 
   .topnav ul li{
     list-style: none;
     display: inline-block;
